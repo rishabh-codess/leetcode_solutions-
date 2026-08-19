@@ -20,4 +20,16 @@ solving leetcode  problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
