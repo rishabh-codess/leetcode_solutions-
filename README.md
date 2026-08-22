@@ -9,6 +9,7 @@ solving leetcode  problems
 | [0001-two-sum](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ solving leetcode  problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
