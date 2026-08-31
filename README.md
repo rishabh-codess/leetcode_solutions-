@@ -12,6 +12,7 @@ solving leetcode  problems
 | [0014-longest-common-prefix](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
