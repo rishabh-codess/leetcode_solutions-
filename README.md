@@ -10,6 +10,7 @@ solving leetcode  problems
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0485-max-consecutive-ones) |
@@ -46,6 +47,7 @@ solving leetcode  problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -63,5 +65,14 @@ solving leetcode  problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
