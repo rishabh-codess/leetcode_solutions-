@@ -12,12 +12,14 @@ solving leetcode  problems
 | [0014-longest-common-prefix](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0283-move-zeroes](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0001-two-sum) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +29,7 @@ solving leetcode  problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -75,4 +78,12 @@ solving leetcode  problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
