@@ -19,6 +19,7 @@ solving leetcode  problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0013-roman-to-integer) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@ solving leetcode  problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +62,7 @@ solving leetcode  problems
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
