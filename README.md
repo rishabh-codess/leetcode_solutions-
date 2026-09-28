@@ -35,6 +35,7 @@ solving leetcode  problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0876-middle-of-the-linked-list) |
@@ -52,6 +53,7 @@ solving leetcode  problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/rishabh-codess/leetcode_solutions-/tree/master/0876-middle-of-the-linked-list) |
